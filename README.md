@@ -22,7 +22,7 @@ Demostration Video:
 - Move `VulkanMod.jar` to `mods` folder of your Minecraft Instance.
 
 ## Installation on macOS in ManyMC:
-  1. Install latest Fabric version for 1.18.2
+  1. Install latest Fabric version for 1.19
   2. Edit the LWJGL meta like this [screenshot](https://cdn.discordapp.com/attachments/963180554193354785/983774971421659216/Screen_Shot_2022-06-07_at_17.48.10.png).
   3. Paste [this](https://paste.gg/p/anonymous/064546decf4241e9bdeed650bcf655f7) in the LWJGL meta.
   4. Done! Launch the game! Credits to ViRb3.
